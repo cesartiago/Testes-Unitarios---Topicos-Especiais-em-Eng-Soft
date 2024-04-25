@@ -1,8 +1,5 @@
-const  strSubStr  = require('./strSubStr'); // Importa a função que você quer testar
-const  generateTestCases  = require('./__mocks__/strings'); // Importa a função que gera os casos de teste
-
-// Gerar casos de teste
-const testCases = generateTestCases();
+const strSubStr = require('./strSubStr'); // Importa a função que você quer testar
+const testCases = require('./testCasesForSubstr.json'); // Importa os casos de teste do arquivo JSON
 
 // Testes
 describe('str na subStr function', () => {
