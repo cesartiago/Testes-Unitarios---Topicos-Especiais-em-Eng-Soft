@@ -1,5 +1,13 @@
-const strSubStr = require('./strSubStr'); // Importa a função que você quer testar
-const testCases = require('./testCasesForSubstr.json'); // Importa os casos de teste do arquivo JSON
+const strSubStr = require('./__Mocks__/strSubStr')
+const testCases = require('./testCasesForSubstr.json');
+
+// Criando uma função simulada o mock
+jest.mock('./__Mocks__/strSubStr', () => {
+    return jest.fn((haystack, needle) => {
+        // Implementação básica para o mock
+        return haystack.indexOf(needle);
+    });
+});
 
 // Testes
 describe('str na subStr function', () => {

@@ -1,2 +1,11 @@
-Trabalho 2 de testes de softwares (TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE) feito pela dupla: **Tiago César e Helon França**
-<br/> Professor: Kinder
+# Trabalho 2 de Testes de Softwares - Tópicos Especiais em Engenharia de Software
+
+## Professor
+
+* #### Kinder
+
+## Alunos
+
+* #### Tiago César
+* #### Helon França
+
