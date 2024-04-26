@@ -1,0 +1,5004 @@
+{
+  "testCases": [
+    {
+      "input": 603,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 892,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "qpqoto",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 4,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 185,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "e6iqor",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "btkp7y",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "rqgchl",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "4j3z2m",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "aeevkj",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "qspqi",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 557,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "y4nzcj",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "bw2hnl",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "j28u0h",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 995,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 897,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "m6ifl",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "qi38o",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 437,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "a711vv",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "q92rw",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "owg2wd",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 898,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "fxbbay",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "48rl09",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "dpm1d6",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "1be1df",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 995,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 120,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 871,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 713,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 900,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 142,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 263,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 704,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 498,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "akjapj",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "j5icjp",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "xjcldg",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "vkh72o",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "lgzb6m",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "gikndd",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "2r24h6",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "tpx6d6",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 352,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 28,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "1vr5cq",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 233,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "aiyn0hl",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "gt9x06",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 129,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "k07tps",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 815,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "cmolx",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 788,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 501,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "thoyw",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "jcnm2",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 916,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "xzyg3",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "n1i75n",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "6yvv6u",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "eqfzcl",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 762,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "8a3m19",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 225,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 870,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "ms7fag",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 440,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "6r4sht",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "2qiz0f",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "fre4q",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 976,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "lnww6",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 112,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 823,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "8yun37",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "wavgg6",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "11x8s5",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "y8pae",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "uwumer",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 279,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 54,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 715,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "j1ht7n",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "bx4ck",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "ulbtrn",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 444,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 553,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 576,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "hqpfuw",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 262,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "hp0v1f",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 550,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "5x6ui",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "fwn7n9",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 151,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "67jpq9",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "muz23p",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 245,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "jecuopa",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 6,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 659,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 119,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "s77ivh",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "3al10k",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 348,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 211,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 705,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 167,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "5hk2l6",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 396,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 303,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "py23j",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 495,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "eng23",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "oiuzvb",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 579,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 686,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "bo4p0j",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "7o49hv",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 970,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 953,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 459,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 627,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "vrlfqv",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 130,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 347,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "2augpu",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "82o6p9",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 294,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "zhq1j",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "5goagr",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 514,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 412,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "mz8uhk",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 856,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 991,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "vgmxv",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 576,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 59,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 790,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 446,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "ccq88h",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "vpi9vk",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 455,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 413,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "g50d3b",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 704,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "s08lcl",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 336,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 818,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 94,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "0cywfg",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 993,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 116,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 773,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 672,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 320,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 358,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 845,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 856,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "9vuhip",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 521,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 521,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "fi4lti",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "gpy2f9",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "qv69td",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "3fqnx",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 383,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "86dbmo",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "sfgljj",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 48,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "b1rl9m",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 850,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "xagr8q",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "bmzeza",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 253,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 680,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "7yicwa",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 145,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 138,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 59,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "0pnvb",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "n3b56h",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "xk5gif",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "3sctxd",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "u8l8nq",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "5hf36r",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "echs5q",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "50hyy",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "r61to",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 862,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "ukwhrm",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "b50bw6",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 249,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 197,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 900,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 617,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 377,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "69xrhd",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "jx9ikl",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 202,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "ni2sis",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "pdqhsn",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 777,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 546,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "t6yl8v",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "g9lqmfu",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 887,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 501,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 293,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 911,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "v7kamh",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "pssq02j",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 126,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 635,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "81hbm",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "2yxe9w",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 627,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "sr36w",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 309,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 284,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 362,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 722,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "afye0b",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 896,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "w2kbhn",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 487,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 939,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 339,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "dtqj8h",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 468,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 464,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "ifz6qr",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "rrx3t",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 695,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 936,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "bqw6g",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "91j0n",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "1ndruv",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 143,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 99,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "sno6lh",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 135,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "p72cti",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "ilo1hw",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "hbm36b",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 874,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "kt5gck",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "ja3z3k",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "38iih",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "h1xmp",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "0opquc",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 566,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 581,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "9p8l8t",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "cpcdo9",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 417,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "keglf",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 481,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "czyg15",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "ownl1r",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 969,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "aga9j",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 473,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "jezj6",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 16,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 380,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 933,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 562,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "e2o3tj",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 535,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 528,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 415,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 437,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 194,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 303,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 550,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 827,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 115,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 762,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "9jfbsh",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "u04qh6",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "7mn2nr",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "5a2133",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 896,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "f3un9",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 735,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 215,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "a6kgx",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 691,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 681,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "daso4h",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 666,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 654,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "fvheru",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 540,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "n8iktc",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "2fbt3n",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 750,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 750,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 749,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "47pblj",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "j8ym74",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 59,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 654,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "4cmr7wh",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 723,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 304,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "f822e6",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 825,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "qofwi8",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 833,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 423,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 777,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 956,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 634,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 693,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 849,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 684,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 909,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "pk8rlcj",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 664,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 807,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "k3w63h",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "zv7nrp",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 622,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "39e2sg",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 826,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 753,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 193,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 608,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "0yl30i",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "x5lf4l",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 620,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "0uirw",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 25,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "jppeq",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "6ntixj",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 737,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "3c9hzf",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "d2c8a",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 9,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 287,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "l2sv7",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 115,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "5dtc",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "hvmh6",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 37,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 418,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "39jv4o",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 36,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "uj3o79",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "rm4wsn",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "7x4byi",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "sxml1",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "lnlsmt",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 606,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "tkv0a",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "qk944l",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "xkqffl",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "zsweti",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "dik0pf",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 803,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 520,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 746,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "04bu8i",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "vab9mu",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 113,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 546,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "1d6g6j",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "velwub",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 216,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "2c9ng",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 149,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "5umnvp",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 57,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "wpjug6",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 798,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "kq5mnb",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 120,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 124,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "m7ewxk",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "9rif1r",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 202,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "cobqse",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 820,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "6dyds",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "15rib5",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "x3jzb",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 416,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "fp0ut",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 378,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "5yx1a",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 98,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "bglzs",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "o5248e",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 257,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "1i8d2f",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 392,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 938,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 552,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "0gb56j",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "x25t",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 52,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "we3rkq",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 184,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "qi0tbp",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "oyroyg",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "95dch",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 214,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "lars5b",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 607,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 122,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "vjmgwq",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "4800e",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 281,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "ra69sl",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 34,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "nq7fil",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "lwowg8",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 285,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "wukwxa",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 780,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "d7qtdq",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 222,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 589,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "v3rg6i",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 194,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "f24mfn",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "ni6omt",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 98,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "xr9hkm",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "6bceva",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 8,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "s0ro4",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "pea7ip",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 14,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "q2og5g",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "r9yr2i",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "3ebhho",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "whuh7",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 839,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 743,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "yet8fg",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "advtf8",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 647,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 560,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 459,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 983,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "go9d5",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "0qctk",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "lxut1o",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "zknszp",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 653,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "520jpl",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 898,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 493,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "aun9a",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "dgmt25",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 938,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "fgxewa",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 445,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "rw1sv1",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 192,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 184,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 771,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 831,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 20,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "ge6q8gp",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 800,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 121,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 27,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "nfse3r",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 723,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 171,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "hcsf5p",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "rgkil",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 633,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 386,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 383,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "afkyd",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "dl7iob",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "wcve1",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "6o9mm",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "ejuhct",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "jsp5w",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "a6rfop",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "lhp20gl",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 664,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "p6b4gs",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 748,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 493,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 253,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 142,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 706,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "ipa7f",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "fhx4ab",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 123,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 902,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 847,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "kotf5f",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 389,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 8,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 511,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "poy65l",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 282,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "3cysl",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "e8p5up",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "bfbz9f",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "5bw757",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 820,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 155,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "4ekvxk",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 19,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "nymc29",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 768,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 830,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "rkvct4",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "2ype2h",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 64,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "1py9sq",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "uef2a",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "2x0pg",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "1c6qqc",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 510,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "rbq8z",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 370,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "dnngcn",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "x3fr9k",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 591,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 542,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 706,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "2kaxel",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "8a73ap",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "3y67j",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 42,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "nnyy3l",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 433,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 395,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "0d0tbn",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 93,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 993,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "fswrpj",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "cp3gwj",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "cum1lp",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 4,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 864,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "xrycg",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 557,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "qtxvu",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "zhl5hg",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "sl5uyu",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "k5s26",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 803,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 943,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 56,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 415,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "hw39f",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 135,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 408,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 954,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "f088fw",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 518,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "o7ihs6",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "kyzwaa",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "uu4csc",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 85,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "bfyzmv",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 572,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 66,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "m2g4st",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "hmx3lj",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 748,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 890,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 614,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 683,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "8nlncm",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 825,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "3tp8tv",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "w8qjor",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 97,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 903,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "gdofy",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "6r0fll",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "4fjrli",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 520,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "b5ebmc",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 838,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 680,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 760,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "z1f6zc",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 825,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 482,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 590,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 6,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 648,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 733,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 116,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 14,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "czqz3",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 0,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "q7epz",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 687,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "iqa6ak",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 520,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "vj09p",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "bxja8j",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 336,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 861,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 514,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "f8k0q",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 449,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 706,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "g4uwu2",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "eyovrm",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 549,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 69,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 545,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "1p9hd",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 72,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 99,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 137,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "1ja5z",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 251,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "1279ad",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 799,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 559,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "l2hgho",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 317,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 792,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 27,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "1fjvv9",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 825,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "ondslj",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 342,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "guquqwg",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 134,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "uoan2",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "n2ebx",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 911,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "pgqap",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "ig3ptt",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 180,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 12,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 831,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 794,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 613,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "rvraoi",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 313,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 494,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 303,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "3w3338",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "z765y",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 235,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 312,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 11,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "3ydzzq",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "36zyiq",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 582,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "zmaotr",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "lur4ys",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 440,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "xsg7ap",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "nqn57",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "ws1pic",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "3cbkyb",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "vnc997",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 457,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "9kwj07",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 973,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "nr2yo",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "214sd",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 524,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 80,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "psbhib",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 314,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 849,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 814,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 628,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 132,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 26,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "5qqfqa",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 199,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 661,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "e0bitn",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "7c2j4b",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 165,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "eamka8",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "vvp936",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "zigi89",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "69rrmg",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "9o54yd",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 591,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 975,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "d52zva",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "d2caeqz",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 341,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 346,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 215,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 606,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 3,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "blj92",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 273,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 544,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "onclp",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 352,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 889,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 661,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "vhxhsp",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 197,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 418,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 545,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 218,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "ijbdaa",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 689,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "4chb",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 202,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 613,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 326,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "lry2xm",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "duv83e",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "eekfd",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 601,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "3w6df",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "4o953",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "zun3n",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "l4lml",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 220,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "7pvpi",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 209,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "yyq93",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "lctvj",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 217,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "8tau3u",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 521,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 943,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 199,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 787,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 409,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 762,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 898,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 741,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 742,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 958,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "6kfbh",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 690,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 865,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "00qh0i",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "ic655a",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "dr17d",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 90,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 842,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "uja86u",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 572,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 346,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "ot8ajn",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 346,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 665,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "ew3mw",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "2n8au",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "q7xmir",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "bhr6vn",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "rtyc5f",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 914,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 23,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "zqcai",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "kc1ww9",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 579,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "frvex",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "penoz",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 5,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "gi1ks",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 56,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 431,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 888,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "ps5owj",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 181,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 675,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "2px1ls",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 466,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 336,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "eqaoze",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "j9t0mv",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "oyxue6",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 287,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 30,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "j7nuxf",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 506,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "dukw1s",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "emihq",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "jchjmj",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 46,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "es89j9",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 881,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 698,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "40qf6d",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "0f2z42",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 674,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "i4qbp9",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 155,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 462,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "rkp45o",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 112,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "2um2b",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "py2t4c",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 420,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "y5tl0h",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 954,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "n9bpup",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "7pdi5",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 296,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "bw9z6q",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 483,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 241,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "ubrdlh",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 249,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "szo44",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 209,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "2clbnc",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 785,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "0xcs4",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 310,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 590,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "0z40hg",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 80,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 247,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "52r4pr",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "fzcqu9",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 869,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 303,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 314,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "0ggohb",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 874,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 764,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "0xvw1m",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "vl9jhc",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 788,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 32,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "68lsh",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 265,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 293,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 12,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 117,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 359,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "7z8iiv",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 142,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "h69zd9",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 173,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 12,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "sih0zk",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "l5whia",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "dqz1kg",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 797,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "iewpcm",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "jxiacv",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "ou7gh4",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "zr8xs",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 512,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 821,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "swwmig",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "wyju2",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 167,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 972,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 412,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "r90xt5",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "8a0zgh",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 743,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "rudz0o",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "lazmdi",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "wbm5b7",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 16,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 479,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "ri1srf",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 583,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "2r52r",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 208,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 524,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "zl4tng",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "4qudyh",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "w3bv3n",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "n4hmuh",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "5k00qh",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 83,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "szp0c",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 749,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "rw403",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "6gd7u",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 720,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 502,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 973,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "gwg9al",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 303,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "axe6u",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "0c7syo",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 401,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "hg3la",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 591,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "6ff0r",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "bkzxk",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 883,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 481,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "er46n",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "wl39kh",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "q8q40p",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 749,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "wogggo",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 702,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 177,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 59,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "t2tc8g",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "m4v6yn",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "8t2yqr",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "l9f0o",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "lk8x3",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 536,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "usyjt",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "vcarx",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 559,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "z6wsk",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 405,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 211,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "10vwnh",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "njmb8m",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "8ta0jt",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "3n05o8",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "2rmand",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 407,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 78,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "77rbca",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "w9t32q",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "lisrsi",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "9fcoqr",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "ttb4oq",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 808,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "ppcc1l",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "pyei3",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "az6pm",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 940,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 429,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 264,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 541,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "ga0o3",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "u4uzlr",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 965,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 196,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 186,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "qsp4pr",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 601,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 854,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "bcafmg",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "et55xo",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 855,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "kefbj",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 461,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "1axtj8",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "glq1ye",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "j4x16n",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 253,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "qavxe",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 874,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 942,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "yav3dj",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 0,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 112,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 464,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "phvthi",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 50,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 160,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "pyiuvc",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "6rnalf",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 371,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "exwswa",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 468,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 440,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "au409",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 886,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "9bj4er",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 343,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 441,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 458,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "xcgpsf",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 434,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 1,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": 578,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "vd7q6",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 868,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "zhl0c1",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "jekiid",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "kuhtt8",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 956,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 81,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 632,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": "arpuw9",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": "1u7ajk",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    },
+    {
+      "input": 947,
+      "validationMessage": true,
+      "output": false
+    },
+    {
+      "input": 494,
+      "validationMessage": true,
+      "output": true
+    },
+    {
+      "input": "didma",
+      "validationMessage": "Entrada inválida: apenas números inteiros são aceitos.",
+      "output": "Entrada inválida: apenas números inteiros são aceitos."
+    }
+  ]
+}
